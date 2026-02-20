@@ -1,5 +1,5 @@
 context:
-  version: "2.16.0"
+  version: "2.20.0"
 
 package:
   name: lumen-tui
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/jnsahaj/lumen/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: A25E94123988775A17CE10AB491F5EACD8191821014D1118CAFB94A4B11DA3A8
+  sha256: c077740d0f04f6207850f8e3569984e6d6c6decff0272996ba012b52eef9b884
 
 build:
   number: 0
